@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+
+# OS / Editor junk
+.DS_Store
+.vscode/
+
+# Model artifacts (optional later)
+*.pkl
+*.joblib
