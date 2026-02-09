@@ -12,5 +12,4 @@ __pycache__/
 .vscode/
 
 # Model artifacts (optional later)
-*.pkl
 *.joblib
